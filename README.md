@@ -12,3 +12,8 @@ Activate the virtual environment
 Install the requirments with pip
 
     pip install -r requirements.txt
+
+# Testing
+Run tests via
+
+    py.test
