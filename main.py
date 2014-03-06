@@ -1,2 +1,3 @@
-def main():
-    return 3
+class Main():
+    def print_sth(self):
+        print('lol')
